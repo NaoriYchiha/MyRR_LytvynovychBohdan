@@ -1,0 +1,13 @@
+body {
+  background-color: #b11414;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #09ff00;
+}
+
+img {
+  border: 2px solid #ff0000;
+  max-width: 100%;
+}
