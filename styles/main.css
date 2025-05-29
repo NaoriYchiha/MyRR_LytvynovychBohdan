@@ -11,3 +11,9 @@ img {
   border: 2px solid #000000;
   max-width: 100%;
 }
+
+p {
+  color: #000000;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
